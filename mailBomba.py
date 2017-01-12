@@ -6,7 +6,7 @@ print"|----------------------|"
 print"|    ·EMAIL BOMBA·     |"
 print"|               V1.5   |"
 print"|  c/TLS  BY_AelKappela|"
-print"|----------------------"
+print"|----------------------|"
 print"2 rounds por 3/s "
 
 import smtplib
